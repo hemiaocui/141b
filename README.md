@@ -1,7 +1,7 @@
 Assignments and project for Course: Data-Web-Technologies-for-Data-Analysis
 
 Tools used in this course: 
-Python, Matplotlib, D3, GeoPandas, SQLite, webscraping, NLP, Seaborn, WordCloud
+Python, Matplotlib, D3, GeoPandas, SQLite, webscraping, NLP, API, Seaborn, WordCloud
 
 Outcome for course project: 
 
